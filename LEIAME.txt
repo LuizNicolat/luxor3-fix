@@ -1,0 +1,32 @@
+LUXOR 3 FIX - Windows 10/11
+===========================
+
+Corrige os erros "ASSERTION FAILURE: TheVideoSystem.cpp" ao abrir o jogo,
+as quedas de frames e o tearing.
+
+INSTALAR
+1. Steam > botao direito em Luxor 3 > Gerenciar > Ver arquivos locais.
+2. Copie o D3D8.dll para essa pasta (ao lado do Luxor3.exe).
+3. Se ativou modo de compatibilidade no Luxor3.exe, desative.
+4. Jogue.
+
+DESINSTALAR
+Apague o D3D8.dll da pasta do jogo.
+
+Codigo-fonte e mais informacoes: veja o README no repositorio do projeto.
+
+---------------------------------------------------------------
+
+LUXOR 3 FIX - Windows 10/11
+
+Fixes the "ASSERTION FAILURE: TheVideoSystem.cpp" startup errors,
+stutter and tearing.
+
+INSTALL
+1. Steam > right-click Luxor 3 > Manage > Browse local files.
+2. Copy D3D8.dll into that folder (next to Luxor3.exe).
+3. If you enabled a compatibility mode on Luxor3.exe, turn it off.
+4. Play.
+
+UNINSTALL
+Delete D3D8.dll from the game folder.
